@@ -14,7 +14,7 @@
 
 - 📝 I regularly write articles on [https://medium.com/mshibinc](https://medium.com/mshibinc)
 
-- 💬 Ask me about **react, php, css,js, wordpress, bootstrap and mysql**
+- 💬 Ask me about **react, php, css, js, wordpress, bootstrap and mysql**
 
 - 📫 How to reach me **mshibinc@gmail.com**
 
