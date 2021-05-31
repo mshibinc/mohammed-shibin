@@ -91,18 +91,15 @@
         <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="mohammedshibin" />
     </a>
 </p>
-<br />
 
 <p>
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mshibinc&show_icons=true&locale=en&layout=compact" alt="mshibinc" />
 </p>
-<br />
-
 
 <p>
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=mshibinc&show_icons=true&locale=en" alt="mshibinc" />
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mshibinc&" alt="mshibinc" />
 </p>
 
 <p>
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mshibinc&" alt="mshibinc" />
 </p>
