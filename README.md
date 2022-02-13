@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on **ERP Mobile Application**
 
-- 🌱 I’m currently learning **node js**
+<!-- - 🌱 I’m currently learning **node js** -->
 
 - 📝 I regularly write articles on [https://medium.com/mshibinc](https://medium.com/mshibinc)
 
