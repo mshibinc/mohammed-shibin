@@ -8,7 +8,7 @@
     </a>
 </p>
 
-- 🔭 I’m currently working on **ERP Mobile Application**
+- 🔭 I’m currently working on **Event Management Application**
 
 <!-- - 🌱 I’m currently learning **node js** -->
 
@@ -16,7 +16,7 @@
 
 - 💬 Ask me about **react, php, css, js, wordpress, bootstrap and mysql**
 
-- 📫 How to reach me **mshibinc@gmail.com**
+- 📫 How to reach me **m.shibin.c@gmail.com**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
